@@ -1,5 +1,5 @@
 # C4US Metin2 MultiHack
-Fork kodu źródłowego cheata do gry Metin2 od zespołu C4US.pl
+Fork of the source code for the Metin2 cheat from the C4US.pl team
 
 **Credits:**
 
